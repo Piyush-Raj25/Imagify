@@ -9,7 +9,7 @@ import Result from './pages/Result'
 import BuyCredit from './pages/BuyCredit'
 import Navbar from './components/Navbar'
 import Footer from './components/Footer'
-import Login from './components/login'
+import Login from './components/Login'
 import { AppContext } from './context/AppContext'
 
 const App = () => {
