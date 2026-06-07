@@ -15,7 +15,7 @@ const app=express()
 
 app.use(express.json())
 app.use(cors({
-  origin: "https://imagify-o9i2vmilm-piyush-rajs-projects-ac95fc8e.vercel.app"
+  origin: process.env.FRONTEND_URL,
 }))
 await connectDB()
 
