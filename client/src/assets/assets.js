@@ -59,25 +59,26 @@ export const testimonialsData = [
   {
     name: "Aarav Sharma",
     role: "Graphic Designer",
-    image: assets.profile_img_1,
+    image: "https://api.dicebear.com/7.x/thumbs/svg?seed=Aarav",
     stars: 5,
-    text: "Imagify has completely transformed how I create visuals for my clients. The quality is outstanding!"
+    text: "..."
   },
   {
     name: "Priya Mehta",
     role: "Content Creator",
-    image: assets.profile_img_2,
+    image: "https://api.dicebear.com/7.x/thumbs/svg?seed=Priya",
     stars: 5,
-    text: "I use Imagify daily for my Instagram and YouTube thumbnails. It saves me hours every week."
+    text: "..."
   },
   {
     name: "Rohit Verma",
     role: "Marketing Manager",
-    image: assets.profile_img_3,
+    image: "https://api.dicebear.com/7.x/thumbs/svg?seed=Rohit",
     stars: 4,
-    text: "Our entire marketing team relies on Imagify now. Fast, accurate and incredibly easy to use."
+    text: "..."
   }
 ]
+
 
 export const plans = [
     {
