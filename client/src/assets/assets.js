@@ -56,45 +56,45 @@ export const stepsData = [
   ];
 
 export const testimonialsData = [
-    {
-        image:profile_img_1,
-        name:'Donald Jackman',
-        role:'Graphic Designer',
-        stars:5,
-        text:`I've been using bg.removal for nearly two years, primarily for Instagram, and it has been incredibly user-friendly, making my work much easier.`
-    },
-    {
-        image:profile_img_2,
-        name:'Richard Nelson',
-        role:'Content Creator',
-        stars:4,
-        text:`I've been using bg.removal for nearly two years, primarily for Instagram, and it has been incredibly user-friendly, making my work much easier.`
-    },
-    {
-        image:profile_img_1,
-        name:'Donald Jackman',
-        role:' Graphic Designer',
-        stars:5,
-        text:`I've been using bg.removal for nearly two years, primarily for Instagram, and it has been incredibly user-friendly, making my work much easier.`
-    },
+  {
+    name: "Aarav Sharma",
+    role: "Graphic Designer",
+    image: assets.profile_img_1,
+    stars: 5,
+    text: "Imagify has completely transformed how I create visuals for my clients. The quality is outstanding!"
+  },
+  {
+    name: "Priya Mehta",
+    role: "Content Creator",
+    image: assets.profile_img_2,
+    stars: 5,
+    text: "I use Imagify daily for my Instagram and YouTube thumbnails. It saves me hours every week."
+  },
+  {
+    name: "Rohit Verma",
+    role: "Marketing Manager",
+    image: assets.profile_img_3,
+    stars: 4,
+    text: "Our entire marketing team relies on Imagify now. Fast, accurate and incredibly easy to use."
+  }
 ]
 
 export const plans = [
     {
       id: 'Basic',
-      price: 10,
+      price: 99,
       credits: 100,
       desc: 'Best for personal use.'
     },
     {
       id: 'Advanced',
-      price: 50,
+      price: 499,
       credits: 500,
       desc: 'Best for business use.'
     },
     {
       id: 'Business',
-      price: 250,
+      price: 999,
       credits: 5000,
       desc: 'Best for enterprise use.'
     },
