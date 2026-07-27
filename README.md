@@ -128,25 +128,18 @@ RAZORPAY_SECRET=
 
 <img width="1893" height="913" alt="Screenshot 2026-07-27 170727" src="https://github.com/user-attachments/assets/24e2a71a-2ea2-430e-b7b7-f396ef9041ea" />
 
-
-
----
-
-## Image Generation
-
-> Add screenshot here
-
 ---
 
 ## Credit Purchase
 
-> Add screenshot here
+<img width="1878" height="911" alt="image" src="https://github.com/user-attachments/assets/c118ba6f-0985-4fba-9905-4c8f601c31bc" />
+
 
 ---
 
 ## Generated Image
 
-> Add screenshot here
+<img width="1882" height="887" alt="image" src="https://github.com/user-attachments/assets/3de63260-db7e-4d2b-a61f-4152c2eb2be1" />
 
 ---
 
