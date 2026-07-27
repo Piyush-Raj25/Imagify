@@ -126,7 +126,9 @@ RAZORPAY_SECRET=
 
 ## Home Page
 
-> Add screenshot here
+<img width="1893" height="913" alt="Screenshot 2026-07-27 170727" src="https://github.com/user-attachments/assets/24e2a71a-2ea2-430e-b7b7-f396ef9041ea" />
+
+
 
 ---
 
